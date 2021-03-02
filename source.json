@@ -1,5 +1,6 @@
 {
   "name": "Unc0ver Source (Unofficial)",
+  "identifier": "unofficial.source.Zeridiant",
   "apps": [
     {
       "beta": false,
