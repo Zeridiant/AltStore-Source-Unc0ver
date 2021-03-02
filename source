@@ -1,0 +1,40 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "science.xnu.undecimus",
+      "developerName": "pwn20wnd",
+      "downloadURL": "https://unc0ver.dev/downloads/6.0.1/3cf530404edc45a752b1e7a1674024a1430ec0af/unc0ver_Release_6.0.1.ipa",
+      "iconURL": "https://raw.githubusercontent.com/starrys121/unc0veraltsource/master/unc0vericon.jpg",
+      "localizedDescription": "unc0ver is a jail​break, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.\n\nThis is an unofficial source for unc0ver however, the download links are official.",
+      "name": "unc0ver",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/starrys121/unc0veraltsource/master/screen1.png",
+        "https://raw.githubusercontent.com/starrys121/unc0veraltsource/master/screen2.PNG",
+        "https://raw.githubusercontent.com/starrys121/unc0veraltsource/master/screen3.PNG"
+      ],
+      "size": 58428498,
+      "subtitle": "The most advanced jailbreaking tool. iOS 11 - iOS 14.3",
+      "tintColor": "8c8c8c",
+      "version": "6.0.1",
+      "versionDate": "2021-03-01T06:53:08-06:00",
+      "versionDescription": "6.0.1\n- Improvements to iOS 14 support."
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "Unc0ver Unofficial Source",
+  "news": [
+    {
+      "appID": "science.xnu.undecimus",
+      "caption": "Updated to 6.0.1 with improvements to iOS 14 compatibility.",
+      "date": "2021-03-01",
+      "identifier": "unc0ver-6-0-1-out",
+      "imageURL": "https://raw.githubusercontent.com/starrys121/unc0veraltsource/master/background.jpg",
+      "notify": false,
+      "tintColor": "000000",
+      "title": "Unc0ver 6.0.1 out now!",
+      "url": ""
+    }
+  ],
+  "userInfo": {}
+}
