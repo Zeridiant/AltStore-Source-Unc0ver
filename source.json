@@ -1,6 +1,6 @@
 {
   "name": "Unc0ver Source (Unofficial)",
-  "identifier": "unofficial.source.Zeridiant",
+  "identifier": "com.zeridiant.unc0ver",
   "apps": [
     {
       "beta": false,
@@ -23,8 +23,6 @@
       "versionDescription": "6.0.1\n- Improvements to iOS 14 support."
     }
   ],
-  "identifier": "com.example.source",
-  "name": "Unc0ver Unofficial Source",
   "news": [
     {
       "appID": "science.xnu.undecimus",
