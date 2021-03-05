@@ -16,7 +16,7 @@
       "size": 58524331,
       "subtitle": "The most advanced jailbreak tool. iOS 11.0 - 14.3",
       "tintColor": "8c8c8c",
-      "version": "6.1.0",
+      "version": "6.0.2",
       "versionDate": "2021-03-03T02:01:38-06:00",
       "versionDescription": "6.1.0\n- Fix all known stability and reliability problems on iOS 14\n- Fix a bug that caused the unc0ver app to show different jailbreak settings when opened in the jailbroken state on iOS 14\n- Add custom libkrw plugin to enable kernel read-write support on iOS 14 for security researchers and developers \n6.0.2\n-  Additional fixes for stability and reliability problems on iOS 14"
     }
